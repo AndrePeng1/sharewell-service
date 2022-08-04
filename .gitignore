@@ -1,0 +1,13 @@
+
+*.lock
+*.bin
+.idea/vcs.xml
+.idea/misc.xml
+.idea/jarRepositories.xml
+.idea/gradle.xml
+.idea/compiler.xml
+.idea/.name
+.gradle/vcs-1/gc.properties
+.gradle/buildOutputCleanup/cache.properties
+.gradle/7.5/gc.properties
+.gradle/7.5/dependencies-accessors/gc.properties
